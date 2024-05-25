@@ -2,7 +2,7 @@ Encontrarás varias fases del hacking ético como: Reconocimiento | Escanéo | E
 ## Muy Pronto estará todos los laboratorios mencionados.
 ### AQUI UN VIDEO CON UN EJEMPLO
 
-[[Prueba de Concepto](/img/cve-outlook.png)](https://www.linkedin.com/posts/deed2812_prueba-de-concepto-ambiente-controlado-activity-7190470936460996608-ZzO_?utm_source=share&utm_medium=member_desktop)
+[![Prueba de Concepto](/img/cve-outlook.png)](https://www.linkedin.com/posts/deed2812_prueba-de-concepto-ambiente-controlado-activity-7190470936460996608-ZzO_?utm_source=share&utm_medium=member_desktop)
 
 
 Prueba de concepto (Ambiente controlado) de la vulnerabilidad de Outlook (CVE-2024-21413).
